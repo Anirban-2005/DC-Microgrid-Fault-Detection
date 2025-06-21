@@ -16,7 +16,7 @@ This project focuses on detecting and classifying faults in a **DC microgrid sys
 
 ---
 
-##Tech Stack
+## Tech Stack
 
 * Python 3.x
 * scikit-learn
